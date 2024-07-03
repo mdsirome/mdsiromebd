@@ -1,0 +1,91 @@
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<!--  ০০০০০০০০০০০০০০০০০০০০০০০০০০০০০০০০০ -->  
+
+
+<!-- Fonts Style এখানে CSS ফ্রন্ট বসানো হয়েছে  -->
+
+
+@import url('https://fonts.maateen.me/adorsho-lipi/font.css');
+
+
+@import url('https://fonts.maateen.me/apona-lohit/font.css');
+
+@import url('https://fonts.maateen.me/bangla/font.css');
+
+@import url('https://fonts.maateen.me/bensen/font.css');
+
+@import url('https://fonts.maateen.me/charu-chandan-3d/font.css');
+
+@import url('https://fonts.maateen.me/charu-chandan-hard-stroke/font.css');
+
+@import url('https://fonts.maateen.me/charukola-ultra-light/font.css');
+
+@import url('https://fonts.maateen.me/kalpurush/font.css');
+
+@import url('https://fonts.maateen.me/siyam-rupali/font.css');
+
+@import url('https://fonts.maateen.me/solaiman-lipi/font.css');
+
+@import url('https://fonts.cdnfonts.com/css/sansita-one-3');
+
+@import url('https://fonts.cdnfonts.com/css/abigail-nagita');
+
+@import url('https://fonts.cdnfonts.com/css/sansita-one-3');
+
+@import url('https://fonts.cdnfonts.com/css/american-average');
+
+@import url('https://fonts.cdnfonts.com/css/zasline');
+
+@import url('https://fonts.cdnfonts.com/css/magisho');
+
+@import url('https://fonts.cdnfonts.com/css/virgula-vulgaris');
+
+
+
+@font-face {
+  font-family: 'Ekushey Durga';
+  src: url('https://github.com/mdsirome/mdsirome/raw/main/Ekushey%20Durga.ttf') format('truetype');
+  /* Replace the URL with the direct link to your hosted font file */
+}
+
+
+
+
+
+
+@font-face {
+  font-family: 'Kalpurush';
+  src: url('https://github.com/mdsirome/mdsirome/raw/main/kalpurush.ttf') format('truetype');
+  /* Replace the URL with the direct link to your hosted font file */
+}
+
+
+
+
+
+<!-- fONT NAME CSS কি হবে সেটাঃ 
+font-family: 'Sansita One', sans-serif;
+font-family: 'Abigail Nagita', sans-serif;
+font-family: 'American Average', sans-serif;
+font-family: 'Zasline', sans-serif;
+font-family: 'Magisho', sans-serif; 
+-->
