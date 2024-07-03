@@ -1,0 +1,75 @@
+.stwBlurRainbow,
+      .stwRainbow {
+        position: fixed;
+        width: 100%;
+        top: 0%;
+        left: 0;
+        right: 0;
+        height: 3px;
+        z-index: 23;
+        background: linear-gradient(-45deg, #4086f4, #31a952, #fbbe01, #eb4132, #4086f4, #31a952, #fbbe01, #eb4132);
+        background-size: 200%;
+        -webkit-animation: animeBar 5s linear infinite;
+        animation: animeBar 5s linear infinite
+      }
+
+      .stwBlurRainbow {
+        height: 3px;
+        z-index: 22;
+        filter: blur(0px);
+        opacity: 1;
+      }
+
+
+.stwBlurRainbow1,
+      .stwRainbow1 {
+        position: fixed;
+        width: 100%;
+        bottom: 0%;
+        left: 0;
+        right: 0;
+        height: 10px;
+        z-index: 23;
+        background: linear-gradient(-45deg, #4086f4, #31a952, #fbbe01, #eb4132, #4086f4, #31a952, #fbbe01, #eb4132);
+        background-size: 200%;
+        -webkit-animation: animeBar 5s linear infinite;
+        animation: animeBar 5s linear infinite
+      }
+
+      .stwBlurRainbow1 {
+        height: 10px;
+        z-index: 22;
+        filter: blur(0px);
+        opacity: 1;
+      }
+
+
+
+
+      @-webkit-keyframes animeBar {
+        0% {
+          background-position: 0 50%
+        }
+
+        50% {
+          background-position: 100% 50%
+        }
+
+        100% {
+          background-position: 0 50%
+        }
+      }
+
+      @keyframes animeBar {
+        0% {
+          background-position: 0 50%
+        }
+
+        50% {
+          background-position: 100% 50%
+        }
+
+        100% {
+          background-position: 0 50%
+        }
+      }
